@@ -7,7 +7,4 @@ def mul(a,b):
 def div(a,b):
     return a/b
 
-print("hello world!")
-
-a = mul(5, 7)
-print(a)
+print('test file is working!')
