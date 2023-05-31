@@ -7,4 +7,5 @@ def mul(a,b):
 def div(a,b):
     return a/b
 
-print('test file is working!')
+if __name__==__main__():
+    print('test file is working!')
