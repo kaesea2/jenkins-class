@@ -4,7 +4,7 @@ import test as t
 class MyTest(ut.TestCase):
     def test_add(self):
         test = t.add(5, 7)
-        expected = 11
+        expected = 12
         self.assertEqual(test,expected)
         
     def test_mul(self):
